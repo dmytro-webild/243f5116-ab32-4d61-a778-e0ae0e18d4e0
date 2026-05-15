@@ -96,7 +96,7 @@ export default function LandingPage() {
           imageSrc: "http://img.b2bpic.net/free-photo/blonde-woman-talking-phone_23-2148660693.jpg",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/stylish-clothing-boutique-interior_23-2151961902.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/stylish-clothing-boutique-interior_23-2151961902.jpg?_wi=1"
       imageAlt="Boutique collection display"
       avatars={[
         {
@@ -166,7 +166,7 @@ export default function LandingPage() {
           description: "From selection to return, we handle the details.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/girl-wearing-floral-dress-wearing-hat-sitting_1150-19274.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/girl-wearing-floral-dress-wearing-hat-sitting_1150-19274.jpg?_wi=1"
       imageAlt="Inside our boutique"
       mediaAnimation="blur-reveal"
     />
@@ -239,7 +239,7 @@ export default function LandingPage() {
           description: "Receive it perfectly cleaned and ready to wear.",
           bentoComponent: "reveal-icon",
           icon: Package,
-          imageSrc: "http://img.b2bpic.net/free-photo/stylish-clothing-boutique-interior_23-2151961902.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/stylish-clothing-boutique-interior_23-2151961902.jpg?_wi=2",
           imageAlt: "Beautician styling clients hair",
         },
         {
@@ -247,7 +247,7 @@ export default function LandingPage() {
           description: "Send it back in the provided pre-paid mailer.",
           bentoComponent: "reveal-icon",
           icon: ArrowRight,
-          imageSrc: "http://img.b2bpic.net/free-photo/girl-wearing-floral-dress-wearing-hat-sitting_1150-19274.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/girl-wearing-floral-dress-wearing-hat-sitting_1150-19274.jpg?_wi=2",
           imageAlt: "Beautician styling clients hair",
         },
       ]}
